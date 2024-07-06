@@ -1,0 +1,121 @@
+body {
+    margin: auto;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.orange {
+    color: orange;
+}
+
+.top {
+    display: flex;
+    padding-left: 10%;
+}
+
+.top p {
+    font-size: larger;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, purple);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 50px;
+    margin-top: 50%;
+}
+
+h1 {
+    color: gray;
+    font-size: xxx-large;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.imgo {
+    height: 100%;
+    width: 70%;
+}
+
+.mid {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 25px;
+}
+
+.midimg {
+    height: 71%;
+    padding-top: 25%;
+    padding-left: 15%;
+}
+
+
+h2 {
+    color: gray;
+    font-size: xx-large;
+}
+
+.about {
+    padding-top: 150px;
+    padding-right: 200px;
+}
+
+.about p {
+    font-size: larger;
+    margin-bottom: 50px;
+}
+
+.center {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.recipe {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.food {
+    height: 60%;
+    width: 100%;
+    border-radius: 15%;
+}
+
+.recbox {
+    margin: 100px;
+}
+
+.achievement {
+    width: 30%;
+    box-shadow: 10px 10px 40px paleturquoise;
+    margin-left: 15%;
+    margin-bottom: 15%;
+    margin-right: 15%;
+
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 5%;
+}
+
+.two {
+    padding-left: 10px;
+    padding-right: 10px;
+}
