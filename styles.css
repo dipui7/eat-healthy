@@ -119,3 +119,13 @@ h2 {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+footer {
+    background-color: black;
+}
+
+.footer-div {
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
